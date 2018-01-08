@@ -1,0 +1,27 @@
+/* cssfontstack.com provides fonts availabilty on different OS */
+/* fonts.google.com has many fonts to work with for websites */
+
+h1 {
+  font-family: 'Bellefair', serif;
+  text-align: center;
+}
+
+p {
+  font-family: monospace;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+
+body {
+  font-size: 20px
+}
+
+/*
+1em = 16
+2em = 32
+ */
+
+#two {
+  font-size: 1.0em;
+}

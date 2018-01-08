@@ -1,0 +1,25 @@
+.firstDiv {
+  color: red;
+}
+/* Accessing classing is with . before class name */
+.secondDiv {
+  color: blue
+}
+/* To access ids */
+#singledout {
+  color: green;
+  text-decoration: line-through;
+}
+
+/* * is used to select all the elements on the page */
+/* * {
+  color: blue;
+} */
+
+h3 + ul {
+  border: 4px dotted purple;
+}
+
+li a {
+  color: red;
+}

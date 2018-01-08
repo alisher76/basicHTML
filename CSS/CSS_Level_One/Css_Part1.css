@@ -1,0 +1,26 @@
+/* This is a comment command / */
+/*
+basic format
+
+selected tag {
+  property: ;
+} */
+
+
+/* Changes the color of h1 */
+h1{
+  color: blue
+}
+
+
+li{
+  color: rgb(31, 117, 65)
+}
+
+p{
+  color: #1f7541
+}
+
+h4{
+  color: rgba(31, 117, 65, 0.8)
+}

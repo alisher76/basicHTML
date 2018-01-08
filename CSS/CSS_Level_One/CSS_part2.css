@@ -1,0 +1,15 @@
+
+body {
+  background: url(https://previews.123rf.com/images/iakov/iakov1402/iakov140200046/25716063-sunset-on-the-beach-takamaka-mahe-island-seychelles-Stock-Photo.jpg);
+  background-repeat: no-repeat; 
+}
+
+div {
+  background-color: white;
+  border-width: 5px;
+  border-style: double;
+}
+
+span {
+  background-color: yellow;
+}

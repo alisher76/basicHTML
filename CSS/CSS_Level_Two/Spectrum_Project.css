@@ -1,0 +1,40 @@
+td {
+  height: 200px;
+  width: 100px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Bellefair', serif;
+}
+
+.art {
+  margin: auto;
+}
+
+#one {
+  background-color: #247ba0;
+}
+#two {
+  background-color: #70c1b3;
+}
+
+#three {
+  background-color: #b2dbbf;
+}
+
+#four {
+  background-color: #f3ffbd;
+}
+
+#five {
+  background-color: #ff1654;
+}
+
+/*
+247ba0
+70c1b3
+b2dbbf
+f3ffbd
+ff1654
+ */
